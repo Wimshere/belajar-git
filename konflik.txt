@@ -1,0 +1,3 @@
+baris 1: pembuka
+baris 2 : isi awal
+baris 3 : penutup
