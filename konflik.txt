@@ -1,3 +1,4 @@
 baris 1: pembuka
 baris 2 : gabungan dari isi dan revisi judul
 baris 3 : penutup
+pukis
